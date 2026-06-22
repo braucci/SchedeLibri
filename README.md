@@ -55,6 +55,7 @@ cresce come una collana editoriale coerente, non come un insieme di file scolleg
 | Andrej Longo | *Mille giorni che non vieni* | [PDF](longo_mille-giorni_scheda.pdf) |
 | Andrej Longo | *Solo la pioggia* | [PDF](longo_solo-la-pioggia_scheda.pdf) |
 | Domenico Starnone | *Destinazione errata* | [PDF](starnone_destinazione-errata_scheda.pdf) |
+| Antonella Lattanzi | *Chiara* | [PDF](lattanzi_chiara_scheda.pdq) |
 | Dino Buzzati | *Il deserto dei Tartari* | [PDF](buzzati_deserto-tartari_scheda.pdf) |
 
 ---
