@@ -57,6 +57,7 @@ cresce come una collana editoriale coerente, non come un insieme di file scolleg
 | Domenico Starnone | *Destinazione errata* | [PDF](starnone_destinazione-errata_scheda.pdf) |
 | Antonella Lattanzi | *Chiara* | [PDF](lattanzi_chiara_scheda.pdf) |
 | Dino Buzzati | *Il deserto dei Tartari* | [PDF](buzzati_deserto-tartari_scheda.pdf) |
+| Claudio Magris | *Lei dunque capirà* | [PDF](magris_lei-dunque-capira_scheda.pdf) |
 
 ---
 
