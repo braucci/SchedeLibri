@@ -59,6 +59,7 @@ cresce come una collana editoriale coerente, non come un insieme di file scolleg
 | Dino Buzzati | *Il deserto dei Tartari* | [PDF](buzzati_deserto-tartari_scheda.pdf) |
 | Claudio Magris | *Lei dunque capirà* | [PDF](magris_lei-dunque-capira_scheda.pdf) |
 | Michail Afanas'evič Bulgakov | *Il maestro e Margherita* | [PDF](bulgakov_maestro-margherita_scheda.pdf) |
+| Chiara Valerio | *Nessuna scuola mi consola* | [PDF](valerio_nessuna-scuola_scheda.pdf) |
 
 ---
 
