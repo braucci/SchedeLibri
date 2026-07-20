@@ -60,6 +60,9 @@ cresce come una collana editoriale coerente, non come un insieme di file scolleg
 | Claudio Magris | *Lei dunque capirà* | [PDF](magris_lei-dunque-capira_scheda.pdf) |
 | Michail Afanas'evič Bulgakov | *Il maestro e Margherita* | [PDF](bulgakov_maestro-margherita_scheda.pdf) |
 | Chiara Valerio | *Nessuna scuola mi consola* | [PDF](valerio_nessuna-scuola_scheda.pdf) |
+| Seicho Matsumoto | *Tokyo Express* | [PDF](matsumoto_tokyo-express_scheda.pdf) |
+| Sebastian Fitzek | *Il ladro di anime* | [PDF](fitzek_ladro-anime_scheda.pdf) |
+
 
 ---
 
