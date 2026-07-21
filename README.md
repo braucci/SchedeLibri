@@ -62,6 +62,7 @@ cresce come una collana editoriale coerente, non come un insieme di file scolleg
 | Chiara Valerio | *Nessuna scuola mi consola* | [PDF](valerio_nessuna-scuola_scheda.pdf) |
 | Seicho Matsumoto | *Tokyo Express* | [PDF](matsumoto_tokyo-express_scheda.pdf) |
 | Sebastian Fitzek | *Il ladro di anime* | [PDF](fitzek_ladro-anime_scheda.pdf) |
+| Jack Kerouac | *Sulla strada* | [PDF](kerouac_sulla-strada_scheda.pdf) |
 
 
 ---
